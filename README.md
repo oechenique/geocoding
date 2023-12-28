@@ -2,7 +2,7 @@
 
 ## Geocoding
 
-Geocoding, also known as address geocoding, is the process of taking a text-based description of a location, such as an address or the name of a place, and returning geographic coordinates, often a pair of latitude/longitude. These coordinates identify a location on the Earth's surface. The resulting locations are generated as geographical features with attributes that can be used for mapping or spatial analysis.
+Geocoding, also known as address geocoding, is the process of taking a text-based description of a location, such as an address or the name of a place, and returning geographic coordinates, often a pair of latitude/longitude. These coordinates identify a location on the Earth's surface. The resulting locations are generated as geographical features with attributes that can be used for mapping or spatial analysis. <a href="https://github.com/oechenique/geocoding/blob/main/geocoding.ipynb" target="_blank">Geocoding Notebook</a>
 
 ### How Geocoding Works
 

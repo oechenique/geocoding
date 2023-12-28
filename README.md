@@ -2,7 +2,7 @@
 
 ## Geocoding
 
-Geocoding, also known as address geocoding, is the process of taking a text-based description of a location, such as an address or the name of a place, and returning geographic coordinates, often a pair of latitude/longitude. These coordinates identify a location on the Earth's surface. The resulting locations are generated as geographical features with attributes that can be used for mapping or spatial analysis. <a href="https://github.com/oechenique/geocoding/blob/main/geocoding.ipynb" target="_blank">Geocoding Notebook</a>
+Geocoding, also known as address geocoding, is the process of taking a text-based description of a location, such as an address or the name of a place, and returning geographic coordinates, often a pair of latitude/longitude. These coordinates identify a location on the Earth's surface. The resulting locations are generated as geographical features with attributes that can be used for mapping or spatial analysis. <a href="https://github.com/oechenique/geocoding/blob/main/Notebook/geocoding.ipynb" target="_blank">Geocoding Notebook</a>
 
 ### How Geocoding Works
 
@@ -10,7 +10,7 @@ Geocoding involves translating location information from descriptive text to num
 
 ## Reverse Geocoding
 
-Reverse geocoding is the process of converting geographic coordinates (latitude and longitude) into a human-readable address or place name. <a href="https://github.com/oechenique/geocoding/blob/main/reverse_geocoding.ipynb" target="_blank">Reverse Geocoding Notebook</a>
+Reverse geocoding is the process of converting geographic coordinates (latitude and longitude) into a human-readable address or place name. <a href="https://github.com/oechenique/geocoding/blob/main/Notebook/reverse_geocoding.ipynb" target="_blank">Reverse Geocoding Notebook</a>
 
 
 ### Applications of Reverse Geocoding
